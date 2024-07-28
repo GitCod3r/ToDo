@@ -75,6 +75,8 @@ npm test
 
 ### API Endpoints
 
+Postman Collection: https://documenter.getpostman.com/view/11050227/2sA3kaBeRK
+
 
 User Endpoints
 
@@ -215,9 +217,9 @@ Todo Endpoints
 
 
 ## Important Notes
-Used GitCoPilot to resolve erros when setting up environment
-Used GitCoPilot to add inline comments
-Used ChatGPT for Postman Collection
+- Used GitCoPilot to resolve erros when setting up environment
+- Used GitCoPilot to add inline comments
+- Used ChatGPT for Postman collection
 
 
 

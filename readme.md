@@ -7,7 +7,6 @@ A simple Todo application built with Node.js, Express, MongoDB, and TypeScript. 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Running the Application](#running-the-application)
-- [Testing the Application](#testing-the-application)
 - [API Endpoints](#api-endpoints)
 - [Resources](#resources)
 
@@ -64,14 +63,6 @@ npm start
 
 The server will start on http://localhost:3000.
 
-
-
-### Testing the Application
-
-
-```sh
-npm test
-```
 
 ### API Endpoints
 
